@@ -29,3 +29,15 @@ h2{
     font-family: Fredoka One;
     font-size: 30px;
 }
+.cooking_div{
+    margin: none 25px none 25px;
+    text-align: center;
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.coding_div{
+    margin: none 25px none 25px;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
